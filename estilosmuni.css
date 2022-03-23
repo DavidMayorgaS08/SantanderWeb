@@ -2,7 +2,6 @@
 * {
     box-sizing: border-box;
     font-family: Century Gothic;
-    font-weight: bold;
   }
   
   body {
@@ -171,35 +170,7 @@ input.scr{
   }
   
   
-  table{
-      background-color: #a2537a41;
-      text-align: center;
-      border-collapse: collapse;
-      width: 100%;
-  }
   
-  th td{
-      border: solid 1px palevioletred;
-      padding: 20px;
-  }
-
-  thead{
-      background-color: rosybrown;
-      border-bottom: solid 5px #765a6e;
-      color: white;
-  }
-
-  tr:nth-child(even){
-      background-color: rgba(167, 101, 159, 0.254);
-  }
-
-  tr:hover td{
-      background-color: rgba(95, 69, 90, 0.467);
-      color: white;
-  }
-
-
-
   
   .main { 
       padding: 10rem;
