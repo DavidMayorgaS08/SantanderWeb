@@ -1,0 +1,37 @@
+body{background-color:#FDEFF4;
+}
+
+header{background-image:linear-gradient(#FF5C8D,#FDEFF4); 
+text-align:center;
+color:black;
+font-weight:bold;
+font-size:20px; 
+border: radius 10px 10px 10px 10px;
+height:120px; margin: -10px; padding:10px;}
+
+.inicio{
+    text-decoration:none;
+    color:black;
+    font-weight: bold;
+}
+
+article{background-color:#FDEFF4;
+text-align:left;
+margin:10px;}
+
+div{background-color:#FDEFF4;
+align-items:center;
+float:right; 
+width: 15%;
+height: 500px;}
+
+*{font-family: Arial, Helvetica, sans-serif;}
+
+.mapa{
+    width:3%;
+    padding:3px;
+    min-height:250px;
+    position:absolute;
+    left:37%;
+    top:55%;
+}
